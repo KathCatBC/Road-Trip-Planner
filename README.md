@@ -1,4 +1,4 @@
-# Road-Trip-Planner
+# The Ultimate Road Trip Planner
 
 
 ## Description
@@ -20,7 +20,7 @@ The Ultimate Road Trip Planner is an app that helps users in planning a road tri
 * Bitly API
 
 ## Built With
-* Sublime Text 
+* Sublime 
 * Heroku 
 
 ## Authors
