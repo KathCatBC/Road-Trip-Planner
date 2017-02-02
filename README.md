@@ -1,17 +1,16 @@
 # The Ultimate Road Trip Planner
 
-
-## Description
-The Ultimate Road Trip Planner is an app that helps users in planning a road trip. The user provides a starting location and ending location. The interactive app then makes suggestions for points of interest like Hotels/Motels and restaurants. It also provides weather forecasts for key cities along the route. The app  uses Geonames, Google maps, Dark Skies and Google Places  API's to plan the route and provide the key information.
+The Ultimate Road Trip Planner is an app where the user enters in a starting location and ending location to plan a road trip. The app makes suggestions for points of interest like Hotels/Motels and restaurants. It will also provide weather forecasts for key cities along the route to enhance the road trip plan. The app uses Geonames, Google maps, Dark Skies to plan the route and provide the key information.
 
 ## Screenshots
 ![image](https://cloud.githubusercontent.com/assets/20932574/21952147/cf5b8b04-d9e2-11e6-8962-3a665cf8079a.png)
 
 ## Technologies used
+- JavaScript
 - HTML5
 - JQuery
 - AJAX
-- Bootstrap
+- CSS/Bootstrap
 
 ## APIs used
 * GeoNames API
@@ -25,12 +24,10 @@ The Ultimate Road Trip Planner is an app that helps users in planning a road tri
 
 ## Authors
 
-* **
 
-        Vincent Visconti   [Vincent Visconti](https://github.com/VinnyV88)
-        Kathleen Catlett  [Kathleen Catlett](https://github.com/KathCatBC)
-        Sunita Chowdhury  [Sunita Chowdhury](https://github.com/smchow)
-
+* **Vincent Visconti** - [Vincent's github](https://github.com/VinnyV88)
+* **Kathleen Catlett** - [Kathleen's github](https://github.com/KathCatBC)
+* **Sunita Chowdhury** - [Sunita's github](https://github.com/smchow)
 
 
 ## License
