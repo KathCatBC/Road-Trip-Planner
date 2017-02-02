@@ -27,9 +27,9 @@ The Ultimate Road Trip Planner is an app where the user enters in a starting loc
 
 ## Authors
 
-* Vincent Visconti  [Vincent Visconti](https://github.com/VinnyV88)
-* Kathleen Catlett  [Kathleen Catlett](https://github.com/kathcatBC)
-* Sunita Chowdhury  [Sunita Chowdhury](https://github.com/smchow)
+* [Vincent Visconti](https://github.com/VinnyV88)
+* [Kathleen Catlett](https://github.com/kathcatBC)
+* [Sunita Chowdhury](https://github.com/smchow)
   
 
 
