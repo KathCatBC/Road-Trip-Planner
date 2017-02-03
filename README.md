@@ -1,8 +1,5 @@
 # The Ultimate Road Trip Planner
 
-
-## Description
-
 The Ultimate Road Trip Planner is an app where the user enters in a starting location and ending location to plan a road trip. The app makes suggestions for points of interest like Hotels/Motels and restaurants. It will also provide weather forecasts for key cities along the route to enhance the road trip plan. The app uses Geonames, Google maps, Dark Skies to plan the route and provide the key information.
 
 ## Screenshots
@@ -26,6 +23,7 @@ The Ultimate Road Trip Planner is an app where the user enters in a starting loc
 * Heroku 
 
 ## Authors
+
 
 * [Vincent Visconti](https://github.com/VinnyV88)
 * [Kathleen Catlett](https://github.com/kathcatBC)
