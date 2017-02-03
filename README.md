@@ -44,15 +44,15 @@ The Ultimate Road Trip Planner is an app where the user enters in a starting loc
 * Pick a restaurant in the area:
   Click on the knife and fork icon to see restaurants.
   View restaurants in the area.
-  Select one to add to your route
+  Select one to add to your route.
   http://g.recordit.co/lqwG02HQxa.gif
   
 * Pick a hotel in the area:
-  Click on the bed icon to see hotels
-  View hotels in the area.
-  Select a hotel to add to your route.
-  See the full route with restaurant and hotel added.
-  http://g.recordit.co/MPzyTasqBB.gif
+  - Click on the bed icon to see hotels
+  - View hotels in the area.
+  - Select a hotel to add to your route.
+  - See the full route with restaurant and hotel added.
+  - http://g.recordit.co/MPzyTasqBB.gif
     
 * Take Directions With You!
   Click on the "Take Directions With You!" button.
