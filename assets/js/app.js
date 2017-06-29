@@ -12,7 +12,7 @@ $(document).ready(function() {
   var dirurl;
   var showHint = true;
 
-
+debugger
   function init() {
     $(".panel-weather").hide();
     var startInput = document.getElementById('start-location-input');
@@ -172,7 +172,8 @@ $(document).ready(function() {
       markers.forEach(function(m) {
 
         if (m.type === "nearby") {
-          var geourl = "http://api.geonames.org/findNearbyPlaceNameJSON?radius=50&lat=" + m.position.lat() + "&lng=" + m.position.lng() + "&cities=cities10000&username=tripstop";
+          // needs to be https for heroku to work - otherwise use http
+          var geourl = "https://api.geonames.org/findNearbyPlaceNameJSON?radius=50&lat=" + m.position.lat() + "&lng=" + m.position.lng() + "&cities=cities10000&username=tripstop";
       
           $.ajax({ url: geourl, method: "GET" }).done(function(geoResponse) {
 
@@ -329,7 +330,8 @@ $(document).ready(function() {
  
   function getDestlnglat(dest){
 
-    var deststr = dest.replace(/ /gi, "+");
+    // var deststr = dest.replace(/ /gi, "+");
+    var deststr = dest
 
     var settings = {
       "url": "https://maps.googleapis.com/maps/api/geocode/json?address=" + deststr + "&components=locality&key=AIzaSyB4Bfs-GG2wm1xuIfsRFm7MOc8K9gcSr9M",
